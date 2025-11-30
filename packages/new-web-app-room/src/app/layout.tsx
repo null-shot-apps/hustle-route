@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "HustleRoute - Smart Transport for Nigeria",
+  description: "Check transport fares, find cheaper alternatives, and stay safe on Nigerian roads. Community-driven fare estimates and safety alerts.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
